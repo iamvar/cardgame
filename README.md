@@ -12,7 +12,7 @@ Each card has value associated with it:
 |---|---|---|---|---|---|---|---|----|----|----|----|---|
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 11 | 11 | 1 |
 
-###Goal
+### Goal
 
 You have to pick cards to be as close to 21 as possible and have higher score than opponent.
 
