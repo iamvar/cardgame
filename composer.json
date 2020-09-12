@@ -1,0 +1,15 @@
+{
+    "name": "iamvar/cardgame",
+    "type": "bundle",
+    "license": "MIT",
+    "description": "This is the simple php console application to play card game 21.",
+    "autoload": {
+        "psr-4": {
+            "Iamvar\\CardGame\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "symfony/console": "^5.1"
+    }
+}
